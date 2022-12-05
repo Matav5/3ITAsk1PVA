@@ -1,0 +1,17 @@
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\bin\Debug\net6.0-windows\CukrKavaLimonada.exe
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\bin\Debug\net6.0-windows\CukrKavaLimonada.deps.json
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\bin\Debug\net6.0-windows\CukrKavaLimonada.runtimeconfig.json
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\bin\Debug\net6.0-windows\CukrKavaLimonada.dll
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\bin\Debug\net6.0-windows\CukrKavaLimonada.pdb
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.csproj.AssemblyReference.cache
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.Form1.resources
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.csproj.GenerateResource.cache
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.AssemblyInfoInputs.cache
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.AssemblyInfo.cs
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.csproj.CoreCompileInputs.cache
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.dll
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\refint\CukrKavaLimonada.dll
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.pdb
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\CukrKavaLimonada.genruntimeconfig.cache
+C:\Users\Matav\source\repos\3ITAsk1\CukrKavaLimonada\CukrKavaLimonada\CukrKavaLimonada\obj\Debug\net6.0-windows\ref\CukrKavaLimonada.dll
